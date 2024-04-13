@@ -3,16 +3,12 @@ Noviembre de 2022
 Proyecto de Curso
 Integrantes:
   Jonatan David Chavarriaga Chavarriaga
-   CC. 1000404025
 
   Fredy Hernando Quintero Salazar
-   CC. 1001788655
 
   Gabriel Arturo Oquendo Hernández
-   CC. 1001544752
 
   Ferney Enrique Avila Benitez
-   CC. 1040761483
   Métodos Numéricos Grupo 505 - 506
 ===================================================================
 ===================================================================
